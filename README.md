@@ -11,6 +11,3 @@ You can also double click each effect (inside FX folder) to edit them as you'd l
 You can find me and follow my creations:
 - [hyperink.lab](https://www.instagram.com/hyperink.lab)
 - [stablevisi.on](https://www.instagram.com/stablevisi.on)
-
-If this project is useful to you, please don't forget to give it a star! 🌟 🤗
-
